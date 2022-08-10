@@ -62,7 +62,7 @@
 .banner {
   max-width: 1440px;
   height: 913px;
-  background: url("/images/banner.png");
+  background: url("../images/banner.png");
 }
 .banner__text {
   padding-top: 220px;
